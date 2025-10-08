@@ -6,7 +6,7 @@ SQL queries used for analyzing login attempts and employee access for security p
 This project aims to analyze employee login attempts and system access in order to identify suspicious activities and enhance overall security.  
 **SQL** was used to retrieve and filter data from the tables containing login attempts and employee information.
 
----
+
 
 ## 🧩 Tasks Performed
 1. **Retrieve after-hours login attempts**  
@@ -24,21 +24,21 @@ This project aims to analyze employee login attempts and system access in order 
 5. **Exclude IT department employees**  
    To focus on other departments whose devices have not yet been updated.
 
----
+
 
 ## 🧠 Skills Acquired
 - Writing **SQL queries** using **AND / OR / NOT** filters  
 - Analyzing data to detect suspicious activities  
 - Understanding the relationship between security and data analysis
 
----
+
 
 ## 📂 Repository Contents
 - `report.pdf` ← Complete project report  
 - `queries.sql` ← File containing SQL queries used  
 - `README.md` ← This file describing the project  
 
----
+
 
 ## 🧑‍💻 Developer
 **Jeeesssy (جيسي)**  
@@ -50,7 +50,7 @@ SQL queries used for analyzing login attempts and employee access for security p
 This project aims to analyze employee login attempts and system access in order to identify suspicious activities and enhance overall security.  
 **SQL** was used to retrieve and filter data from the tables containing login attempts and employee information.
 
----
+
 
 ## 🧩 Tasks Performed
 1. **Retrieve after-hours login attempts**  
@@ -68,7 +68,7 @@ This project aims to analyze employee login attempts and system access in order 
 5. **Exclude IT department employees**  
    To focus on other departments whose devices have not yet been updated.
 
----
+
 
 ## 🧠 Skills Acquired
 - Writing **SQL queries** using **AND / OR / NOT** filters  
