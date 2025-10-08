@@ -1,10 +1,10 @@
-# 🛡️ SQL Security Analysis
+# SQL Security Analysis
 
-## 📖 Project Description
+## Project Description
 This project analyzes employee login attempts and system access to detect suspicious activities and enhance overall security.  
 **SQL** queries are used to retrieve and filter data from tables containing login attempts and employee information.
 
-## 🧩 Tasks Performed
+## Tasks Performed
 - **Retrieve after-hours login attempts:**  
   Detect unusual activity outside regular working hours.  
 
@@ -20,17 +20,17 @@ This project analyzes employee login attempts and system access to detect suspic
 - **Exclude IT department employees:**  
   Focus on departments whose devices have not yet been updated.  
 
-## 🧠 Skills Gained
+## Skills Gained
 - Writing SQL queries using **AND / OR / NOT** filters  
 - Analyzing data to detect suspicious activities  
 - Understanding the relationship between security and data analysis  
 
-## 📂 Repository Contents
+## Repository Contents
 - **report.pdf** → Full project report  
 - **queries.sql** → SQL queries used in the analysis  
 - **README.md** → Project description (this file)  
 - **Screenshots/** → Optional folder containing screenshots of query execution  
 
-## 🧑‍💻 Developer
+## Developer
 **Jesse (جيسي)**  
 Training project as part of the Data Analysis and Cybersecurity program
